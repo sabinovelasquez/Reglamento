@@ -25,7 +25,7 @@ PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no s
 > **Nivel de Experticia**:  ( Estudiante - Practicante - Professional - Advance - Senior )                                                                                                            
 > **Ubicación**: ( Dirección de la Empresa o del lugar de la Entrevista )                                                       
 > **Horarios**:  ( Lunes a Viernes de xx:xx a xx:xx hrs o artículo 22 del Código del Trabajo )                                                                                                                  
-> **Benefícios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
+> **Beneficios**: ( Remuneraciones NO IMPONIBLES como Transporte, Colación, Bonos, Seguros, etc )                              
 > **Ambiente Laboral**: (  ¿Como es Trabajar en esta empresa? )                                                                                                   
 > **Tipo de Contrato**: ( Firma de Practica - Honorarios - Por Proyecto - Indefinido )                                                                        
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
